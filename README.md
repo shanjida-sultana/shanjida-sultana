@@ -28,8 +28,8 @@
 
 
 ## 📈 Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamapti&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Shamapti&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanjida-sultana&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shanjida-sultana&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 
 ## 💡Miscellaneous:
