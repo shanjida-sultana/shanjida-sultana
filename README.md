@@ -12,7 +12,6 @@
 
 📫 Reach me through **shanjidasultana1459@gmail.com**
 
-⚡ Fun fact **good at breaking hearts.**
 
 ## 🌐 Connect with me:
 <p align="left">
